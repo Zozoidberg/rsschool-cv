@@ -1,4 +1,5 @@
 # Bochin Anton
+![my_photo](./my_photo.jpg)
 ***
 ## Contacts:
     * Discord: Zozo
@@ -7,7 +8,7 @@
     * Telegramm: https://t.me/BochinAnton1
 ***
 ## About me:
-    I'm 25 years old, I work as a math teacher. In my free time, I self-taught programming. I love programming and want to connect my life with it. I can make a backend in python and would like to learn how to make a frontend.
+    I'm 25 years old, I'm a mathematics teacher. In my free time, I self-taught programming. I like programming and want to connect my life with it. I can make a backend in python and would like to learn how to make a frontend.
 ***
 ## Code example:
 ```python
