@@ -2,13 +2,14 @@
 ![my_photo](./my_photo.jpg)
 ***
 ## Contacts:
-    * Discord: Zozo
-    * E-mail: antonbocin342@gmail.com
-    * Tel: +79213335496
-    * Telegramm: https://t.me/BochinAnton1
++ Discord: Zozo
++ E-mail: antonbocin342@gmail.com
++ Tel: +79213335496
++ Telegramm: https://t.me/BochinAnton1
 ***
 ## About me:
-    I'm 25 years old, I'm a mathematics teacher. In my free time, I self-taught programming. I like programming and want to connect my life with it. I can make a backend in python and would like to learn how to make a frontend.
+    I'm 25 years old, I'm a mathematics teacher. In my free time, I self-taught programming.
+    I like programming and want to connect my life with it. I can make a backend in python and would like to learn how to make a frontend.
 ***
 ## Code example:
 ```python
@@ -25,13 +26,13 @@ print(string_formatter(data))
 ```
 ***
 ## Skills:
-    * Python3
-    * Flask
-    * PostgreSQL
-    * Math
-    * Git/GitHub
-    * HTML(basics)
-    * CSS(basics)
++ Python3
++ Flask
++ PostgreSQL
++ Math
++ Git/GitHub
++ HTML(basics)
++ CSS(basics)
 ***
 ## Education and courses:
     1. Peter the Great St.Petersburg Polytechnic University(Information Security)
