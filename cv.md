@@ -7,7 +7,7 @@
 + Discord: Zozo
 + E-mail: antonbocin342@gmail.com
 + Tel: +79213335496
-+ Telegram: https://t.me/BochinAnton1
++ Telegram: @BochinAnton1
 
 ---
 
@@ -46,7 +46,7 @@ print(string_formatter(data))
 
 ## Education and courses:
     1. Peter the Great St.Petersburg Polytechnic University(Information Security)
-    2. https://www.freecodecamp.org/ HTML CSS Basics
+    2. freecodecamp.org HTML CSS Basics
 
 ---
 
