@@ -30,7 +30,7 @@ print(string_formatter(data))
 + Flask
 + PostgreSQL
 + Math
-+ Git/GitHub
++ Git/GitHub(basics)
 + HTML(basics)
 + CSS(basics)
 ---
