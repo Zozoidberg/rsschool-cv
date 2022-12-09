@@ -46,7 +46,7 @@ print(string_formatter(data))
 
 ## Education and courses:
     1. Peter the Great St.Petersburg Polytechnic University(Information Security)
-    2. [2]: https://www.freecodecamp.org/ HTML CSS Basics
+    2. www.freecodecamp.org HTML CSS Basics
 
 ---
 
