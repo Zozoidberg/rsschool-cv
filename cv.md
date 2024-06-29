@@ -28,3 +28,9 @@ console.log(
 ); // 6
 ```
 -----
+## Education
+* Secondary general education
+-----
+## Languages
+* Russian - native speaker
+* English - A2
