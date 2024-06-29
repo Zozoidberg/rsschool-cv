@@ -7,6 +7,7 @@
 * **E-mail**: antonbocin342@gmail.com
 * **GitHub**: [Zozoidberg](https://github.com/Zozoidberg)
 * **Telegram**: [Bochin Anton](https://t.me/BochinAnton1)
+
 ---------
 
 ## About me
@@ -33,6 +34,7 @@ console.log(
 ); // 6
 ```
 
+----
 ## Learning project
 
 * https://github.com/Zozoidberg/rsschool-cv
