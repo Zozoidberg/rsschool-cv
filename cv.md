@@ -27,6 +27,8 @@ console.log(
    .reduceRight((accumulator, element) => accumulator + Math.sqrt(element), 0)
 ); // 6
 ```
+## Learning project
+* https://github.com/Zozoidberg/rsschool-cv
 -----
 ## Education
 * Secondary general education
