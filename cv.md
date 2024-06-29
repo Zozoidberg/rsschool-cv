@@ -8,16 +8,12 @@
 ---------
 ## About me
 I'm 26 years old, I'm from St. Petersburg, Russia. I teach mathematics to schoolchildren and students privately on the Internet. I really like programming. My goal is to become a developer.
-
-
 --------
 ## Skils
 * HTML
 * CSS
 * Python(I studied earlier but don’t practice now)
 * Git/Github
-
-
 -------
 ## Code Examples
 ```
@@ -30,17 +26,11 @@ console.log(
    .reduceRight((accumulator, element) => accumulator + Math.sqrt(element), 0)
 ); // 6
 ```
-
-
 ## Learning project
 * https://github.com/Zozoidberg/rsschool-cv
-
-
 -----
 ## Education
 * Secondary general education
-
-
 -----
 ## Languages
 * Russian - native speaker
