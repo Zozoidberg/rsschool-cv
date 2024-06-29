@@ -2,6 +2,7 @@
 
 ---------
 ## Contacts
+
 * **Phone**: +7 921 333 54 96
 * **E-mail**: antonbocin342@gmail.com
 * **GitHub**: [Zozoidberg](https://github.com/Zozoidberg)
@@ -13,6 +14,7 @@ I'm 26 years old, I'm from St. Petersburg, Russia. I teach mathematics to school
 
 --------
 ## Skils
+
 * HTML
 * CSS
 * Python(I studied earlier but don’t practice now)
@@ -32,13 +34,16 @@ console.log(
 ```
 
 ## Learning project
+
 * https://github.com/Zozoidberg/rsschool-cv
 
 -----
 ## Education
+
 * Secondary general education
 
 -----
 ## Languages
+
 * Russian - native speaker
 * English - A2
