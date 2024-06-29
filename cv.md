@@ -3,7 +3,7 @@
 ---------
 ## Contacts
 * **Phone**: +7 921 333 54 96
-* **E-mail**: antonbocin342@gamil.com
+* **E-mail**: antonbocin342@gmail.com
 * **GitHub**: [Zozoidberg](https://github.com/Zozoidberg)
 * **Telegram**: [Bochin Anton](https://t.me/BochinAnton1)
 ---------
