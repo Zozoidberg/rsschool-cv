@@ -150,6 +150,11 @@ html {
     list-style: none;
 }
 
+.contacts-item {
+    padding-left: 25px;
+    position: relative;
+}
+
 .contacts-item-link {
     color: #829985;
     text-decoration: none;
@@ -159,6 +164,37 @@ html {
     color: #5b5e8e;
 }
 
+.contacts-item::before{
+    content: "";
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    bottom: 10px;
+    width: 24px;
+    height: 24px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.contacts-item:nth-child(1)::before {
+    background-image: url(./assets/svg/phone_icon.png);
+}
+
+.contacts-item:nth-child(2)::before {
+    background-image: url(./assets/svg/email_icon.png);
+}
+
+.contacts-item:nth-child(3)::before {
+    background-image: url(./assets/svg/github_icon.png);
+}
+
+.contacts-item:nth-child(4)::before {
+    background-image: url(./assets/svg/telegram_icon.png);
+}
+
+.contacts-item:nth-child(5)::before {
+    background-image: url(./assets/svg/discord_icon.png);
+}
 
 .main-container {
     display: flex;
@@ -198,6 +234,10 @@ html {
     align-items: center;
 }
 
+.footer-date{
+    padding-left: 20px;
+}
+
 .footer-date-link {
     padding-left: 20px;
     font-size: large;
@@ -210,6 +250,14 @@ html {
 }
 
 .logo-img {
-    height: 70%;
-    width: 70%;
+    height: 100%;
+    width: 100%;
+}
+
+.skills-list{
+    list-style: none;
+}
+
+.languages-list{
+    list-style: none;
 }
