@@ -1,0 +1,261 @@
+* {
+      box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    font-family: "Roboto", sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.5;
+    min-height: 100vh;
+    min-width: 320px;
+    margin: 0;
+    padding: 0;
+}
+
+.my-photo {
+    display: inline-block;
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+}
+
+.main {
+    height: 80%;
+    width: 100%;
+    background-color: #EDF3D8;
+}
+
+.footer {
+    height: 10%;
+    width: 100%;
+    background-color: #C7C6A8;
+}
+
+.header {
+        padding: 0;
+        margin: 0;
+        height: 10%;
+        width: 100%;
+        background-color: #C7C6A8;
+}
+
+.container {
+    height: 100%;
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.nav {
+    height: 100%;
+}
+
+.nav-list {
+    margin: 0;
+    padding: 20px;
+    height: 100%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    list-style: none;
+}
+
+.nav-item {
+    width: 90%;
+    height: 100%;
+}
+
+.nav-link {
+    padding: 0 20px;
+    line-height: 50px;
+    text-decoration: none;
+    color: #829985;
+    font-size: large;
+}
+
+.nav-link:hover {
+    color: #5b5e8e;
+  }
+
+.section-profile {
+    display: flex;
+    justify-content: space-around;
+    padding: 50px 30px 50px;
+    width: 100%;
+}
+
+.section-profile-title {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.main-title {
+    font-size: 32px;
+    word-spacing: 3px;
+}
+
+.section-contacts {
+    display: flex;
+    flex-direction: column;
+    align-items: center;    
+}
+
+.section-about {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.section-skills {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.section-code {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.section-projects {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.section-education {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.section-languages {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.contacts-list {
+    list-style: none;
+}
+
+.contacts-item {
+    padding-left: 25px;
+    position: relative;
+}
+
+.contacts-item-link {
+    color: #829985;
+    text-decoration: none;
+}
+
+.contacts-item-link:hover{
+    color: #5b5e8e;
+}
+
+.contacts-item::before{
+    content: "";
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    bottom: 10px;
+    width: 24px;
+    height: 24px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.contacts-item:nth-child(1)::before {
+    background-image: url(./assets/svg/phone_icon.png);
+}
+
+.contacts-item:nth-child(2)::before {
+    background-image: url(./assets/svg/email_icon.png);
+}
+
+.contacts-item:nth-child(3)::before {
+    background-image: url(./assets/svg/github_icon.png);
+}
+
+.contacts-item:nth-child(4)::before {
+    background-image: url(./assets/svg/telegram_icon.png);
+}
+
+.contacts-item:nth-child(5)::before {
+    background-image: url(./assets/svg/discord_icon.png);
+}
+
+.main-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+  
+.section {
+    width: 50%;
+}
+
+.section-title {
+    font-size: 22px;
+    font-weight: 370;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    color: #829985;
+}
+
+@media (max-width: 768px) {
+    .section {
+      width: 100%;
+    }
+}
+
+.link-project {
+    color: #829985;
+    text-decoration: none;
+}
+
+.link-project:hover {
+    color: #5b5e8e;
+}
+
+.container-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer-date{
+    padding-left: 20px;
+}
+
+.footer-date-link {
+    padding-left: 20px;
+    font-size: large;
+    text-decoration: none;
+    color: #829985;
+}
+
+.footer-date-link:hover {
+    color: #5b5e8e;
+}
+
+.logo-img {
+    height: 100%;
+    width: 100%;
+}
+
+.skills-list{
+    list-style: none;
+}
+
+.languages-list{
+    list-style: none;
+}
