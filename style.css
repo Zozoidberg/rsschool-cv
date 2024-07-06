@@ -1,5 +1,24 @@
-.body{
-    font-family: 'Roboto', sans-serif;
+* {
+      box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    font-family: "Roboto", sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.5;
+    min-height: 100vh;
+    min-width: 320px;
+    margin: 0;
+    padding: 0;
+    
 }
 
 .my-photo {
@@ -7,5 +26,128 @@
     border-radius: 50%;
     height: 200px;
     width: 200px;
+}
+
+.main {
+    height: 80vh;
+    width: 100%;
+    background-color: #EDF3D8;
+}
+
+.footer {
+    height: 10vh;
+    width: 100%;
+    border: 1px solid red;
+}
+
+.header {
+        padding: 0;
+        margin: 0;
+        height: 10vh;
+        width: 100%;
+        background-color: #C7C6A8;
+}
+
+.container {
+    height: 100%;
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.nav {
+    height: 100%;
+}
+
+.nav-list {
+    margin: 0;
+    padding: 20px;
+    height: 100%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    list-style: none;
+}
+
+.nav-item {
+    width: 90%;
+    height: 100%;
+}
+
+.nav-link {
+    padding: 0 20px;
+    line-height: 50px;
+    text-decoration: none;
+    color: #829985;
+    font-size: large;
+}
+
+.section-profile {
+    display: flex;
+    justify-content: space-around;
+    padding: 50px 30px 50px;
+    width: 100%;
+}
+
+.section-profile-title {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.main-title {
+    font-size: 32px;
+    word-spacing: 3px;
+}
+
+.section-contacts {
+    display: flex;
+    flex-direction: column;
+    align-items: center;    
 
 }
+
+.section-about{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.section-skills{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.contacts-list {
+    list-style: none;
+}
+
+.contacts-item-link {
+    color: #829985;
+    text-decoration: none;
+}
+
+.main-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+  
+.section {
+    width: 50%;
+}
+
+.section-title {
+    font-size: 22px;
+    font-weight: 370;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    color: #829985;
+}
+
+@media (max-width: 768px) {
+    .section {
+      width: 100%;
+    }
+}
+
+
